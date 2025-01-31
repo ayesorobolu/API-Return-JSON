@@ -9,7 +9,7 @@ app.get( "/", (req, res) => {
 res.json({
 email:"abrahamayesoro@gmail.com",
 current_datetime: new Date().toISOString(),
-github_url: ""
+github_url: "https://github.com/ayesorobolu/API-Return-JSON"
 })
 })
 
