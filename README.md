@@ -21,7 +21,7 @@ Ensure you have Node.js installed on your system. You can download it from Node.
 How to Run the Project Locally
 Clone this repository:
 
-git clone https://github.com/ayesorobolu/API-Return-JSON.git cd API-Return-JSON
+git clone https://github.com/ayesorobolu/HNG-stage0-API-Return-JSON
 
 Install dependencies:
 npm install
@@ -46,7 +46,7 @@ GET /
 Response Format (200 OK)
 
 The API returns a JSON response with the following structure:
-{ "email": "abrahamayesoro@gmail.com", "current_datetime": "2025-01-30T09:30:00Z", "github_url": "https://github.com/ayesorobolu/API-Return-JSON" }
+{ "email": "abrahamayesoro@gmail.com", "current_datetime": "2025-01-30T09:30:00Z", "github_url": "https://github.com/ayesorobolu/HNG-stage0-API-Return-JSON" }
 
 ## Deployment
 This API is deployed and publicly accessible at:
